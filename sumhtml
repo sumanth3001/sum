@@ -2,9 +2,13 @@
 <html>
 <head>
 <title>sumanth</title>
+<style>
+p1 {color:rgb(20,67,35);}
+p2 {color:rgb(2,67,135);}
+</style>
 </head>
 <body>
-<p><b>kulkarni sumanth<b></p>
-<p>man of masses</p>
+<p1><b>kulkarni sumanth<b></p1>
+<p2>man of masses</p2>
 </body>
 </html>
